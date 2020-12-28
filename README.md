@@ -39,20 +39,13 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # My Resume
 ## Mohit Kumar Agnihotri
-
-## Hagenkampweg Noord 29, 5616 TD, Eindhoven
-
-## Tel no: +31624981829 ♦ email: mohitkumar39@gmail.com
+email: mohitkumar39@gmail.com
 
 ## Professional Interest:
-
-```
- Wireless & Telecommunication Networks, Internet of things,
-```
-##  Embedded Platforms, Heterogeneous Computing & Protocol Stack Development
+Wireless & Telecommunication Networks, Internet of things,
+Embedded Platforms, Heterogeneous Computing & Protocol Stack Development
 
 # Education:
-
 ## Masters in Embedded System with Cum Laude ( 2013 - 2015)
 Eindhoven University of Technology, Netherlands
 
