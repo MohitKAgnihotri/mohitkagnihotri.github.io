@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Resume
-permalink: /resume/
+permalink: resume
 ---
 
-## Mohit Kumar Agnihotri <img align="right" src="_img\potrait.jpg">
+## Mohit Kumar Agnihotri <img align="right" src="_img/potrait.jpg">
 email: _mohitkumar39@gmail.com_
 
 ## Professional Interest:
