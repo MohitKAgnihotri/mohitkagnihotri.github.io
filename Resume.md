@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: resume
+permalink: /resume
 ---
 
 ## Mohit Kumar Agnihotri <img align="right" src="_img/potrait.jpg">
