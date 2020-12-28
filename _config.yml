@@ -23,7 +23,7 @@ email: mohitkumar39@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Helping students  to achieve their true potential. 
   One-to-One attention to everyone, leading to enhanced 
-  learning  experience for future pioneers. 
+  learning experience for future pioneers. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mohitkagnihotri.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -34,6 +34,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+include:
+ - _img
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
