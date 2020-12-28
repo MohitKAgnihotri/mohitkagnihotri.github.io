@@ -15,8 +15,9 @@ email: _mohitkumar39@gmail.com_
 - Protocol Stack Development
 
 ## Education:
-## Masters in Embedded System with Cum Laude ( 2013 - 2015)
+### Masters in Embedded System with Cum Laude ( 2013 - 2015)
 Eindhoven University of Technology, Netherlands
+KTH, Sweden
 
 ### MSc Certificate in Technology Entrepreneurship and Management ( 2014 )
 Eindhoven University of Technology, Netherlands
@@ -32,7 +33,8 @@ UPTU, Lucknow, India with Honors
 - Version Control: SVN, Git, Clearcase
 - Operating Systems: Windows, Linux, VxWorks, WindRiver and SoC(FGPA)
 
-## Industry Experience Summary: 6 + Years in Research & Development
+## Industry Experience Summary
+### 6 + Years in Research & Development
 - Currently employed with Philips Lighting Research, responsible for ideation to pre-development.
 - 1 year in Wireless research in Ericsson, Sweden.
 - 2.9 years of experience in RadiSys Corporation (formerly Continuous Computing). Employed as Team Lead , responsibilities included heading support activities for SS7 protocols and development activities for fault-tolerant protocols and LTE home eNodeB application.
