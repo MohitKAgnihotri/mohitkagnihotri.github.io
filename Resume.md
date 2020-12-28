@@ -1,4 +1,9 @@
-# My Resume
+---
+layout: page
+title: Resume
+permalink: /resume/
+---
+
 ## Mohit Kumar Agnihotri
 email: _mohitkumar39@gmail.com_
 
