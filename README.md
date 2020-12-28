@@ -51,61 +51,46 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ```
 ##  Embedded Platforms, Heterogeneous Computing & Protocol Stack Development
 
-## Education:
+# Education:
 
-##  Masters in Embedded System with Cum Laude ( 2013 - 2015)
-
-```
+## Masters in Embedded System with Cum Laude ( 2013 - 2015)
 Eindhoven University of Technology, Netherlands
-```
-##  MSc Certificate in Technology Entrepreneurship and Management ( 2014 )
 
-```
+## MSc Certificate in Technology Entrepreneurship and Management ( 2014 )
 Eindhoven University of Technology, Netherlands
-```
-##  Bachelor of Electronics and Tele-Communication (2004-2008)
 
-## UPTU, Lucknow, India with Honors
+## Bachelor of Electronics and Tele-Communication (2004-2008)
+UPTU, Lucknow, India with Honors
 
-## Computer Skills:
+# Computer Skills:
+- Programming Languages : C, C++, Java, Python, Matlab, VHDL, MPI, CUDA
+- Scripting Languages : Shell Scripting
+- Telecom Protocols : SS7 Stack, LTE (RRC, RLC, eGTP-C&U, S1AP, X2AP)
+- Communication Protocols : TCP, IP, SCTP, UDP
+- Version Control: SVN, Git, Clearcase
+- Operating Systems: Windows, Linux, VxWorks, WindRiver and SoC(FGPA)
 
-```
- Programming Languages : C, C++, Java, Python, Matlab, VHDL, MPI, CUDA
- Scripting Languages : Shell Scripting
- Telecom Protocols : SS7 Stack, LTE (RRC, RLC, eGTP-C&U, S1AP, X2AP)
- Communication Protocols : TCP, IP, SCTP, UDP
- Version Control: SVN, Git, Clearcase
- Operating Systems: Windows, Linux, VxWorks, WindRiver and SoC(FGPA)
-```
-## Industry Experience Summary: 6 + Years in Research & Development
-
-```
- Currently employed with Philips Lighting Research, responsible for ideation
-to pre-development.
- 1 year in Wireless research in Ericsson, Sweden.
- 2 .9 years of experience in RadiSys Corporation (formerly Continuous
+# Industry Experience Summary: 6 + Years in Research & Development
+- Currently employed with Philips Lighting Research, responsible for ideation to pre-development.
+- 1 year in Wireless research in Ericsson, Sweden.
+- 2.9 years of experience in RadiSys Corporation (formerly Continuous
 Computing). Employed as Team Lead , responsibilities included heading support
 activities for SS7 protocols and development activities for fault-tolerant
 protocols and LTE home eNodeB application.
- 2.3 years of experience in Huawei Technology. Employed as Senior Software
+- 2.3 years of experience in Huawei Technology. Employed as Senior Software
 Engineer, responsibilities included maintenance and development of new
 features for SS7 Protocol stack.
- 3 months of Technical Training in CDAC, Mohali on Atmel 8051
-Microcontrollers.
-```
+- 3 months of Technical Training in CDAC, Mohali on Atmel 8051 Microcontrollers.
+
 # Selected Accomplishments
 
-```
- Ranked 24 th among best professionals in Netherland (https://goo.gl/aAq7Kt).
- Lead a team developing fault-tolerant protocol layer and delivered ahead of
-schedule saving 8 man months.
- Headed the support division (SS7 Signaling), maintaining zero SLA violation.
- Awarded as Best Programmer (ECQ Award) for year 2009 at Huawei, India.
-```
-##  Proficient in Scrum, Extreme and Agile methodology for project management.
+- Ranked 24 th among best professionals in Netherland (https://goo.gl/aAq7Kt).
+- Lead a team developing fault-tolerant protocol layer and delivered ahead of schedule saving 8 man months.
+- Headed the support division (SS7 Signaling), maintaining zero SLA violation.
+- Awarded as Best Programmer (ECQ Award) for year 2009 at Huawei, India.
+- Proficient in Scrum, Extreme and Agile methodology for project management.
 
-
-## Professional Projects Done:
+# Professional Projects Done:
 
 ## Philips Lighting Research, Eindhoven 
 Employed in the capacity of senior embedded software responsible for developing ZigBee based solution
@@ -120,7 +105,6 @@ academic paper with title Topology Formation in mesh networks considering
 Role Suitability.
 
 ## LTE Femto EnodeB Solution (Seoul, South Korea/Radisys): 
-
 Acting as lead engineer, I was responsible for the development of user requirements and bug
 fixes for the eNodeB solution. The development process included requirement
 gathering, feasibility analysis, detailed development and testing for the
@@ -129,7 +113,6 @@ on various hardware platforms like MINDSPEED, Broadcom, and Freescale etc.
 Key technologies: LTE, C/C++, Python, SoC integration and RTOS.
 
 ## SS7 & Fault Tolerant Support (Bangalore, India/Radisys): 
-
 I was the team lead and heading a team of 4 members which are actively supporting entire SS
 protocol portfolio. My responsibility included guiding and analyzing
 feasibility for all customer requirements. In addition, individual
@@ -137,7 +120,6 @@ responsibility included delivering upgrade and maintenance requirement for
 TAPA DFTHA/FTHA solution. Key technologies: LTE, 3G, Reliability, C/C++ and Python.
 
 ## EGTP-C PSF (Bangalore, India/Radisys): 
-
 This project provides fault tolerant capability to trillium eGTP-C layer. 
 My responsibilities included providing the team with the technical leadership and mentoring. 
 Additional responsibilities included involvement in the design, prototyping and
@@ -152,7 +134,7 @@ maintenance of the legacy protocol stack, optimizing performance with
 product integration and developing new features as desired by the customer
 to enter markets. Key technologies: SS7, TCP/IP, C/C++, RTOS.
 
-##  TCAP Development (Bangalore, India/Huawei): 
+## TCAP Development (Bangalore, India/Huawei): 
 Played the role of system architect for the team involved in the development and maintenance of SS
 components. Responsible for addressing the requirements of different
 products and network elements like BSC, MSC, RNC and HLR and providing
@@ -160,9 +142,9 @@ timely and cost effective implementations. Relevant activities included
 involvement in high-level requirement analysis, feature, and feasibility 
 study. Key technologies: SS7, TCP/IP, C/C++, VxWorks.
 
-## Academic Projects:
+# Academic Projects:
 
-### Respiration rate monitoring: 
+## Respiration rate monitoring: 
 The project aimed to evaluate the video
 algorithms for their suitability in monitoring respiration rate
 unobtrusively. I worked in the capacity of research intern and prototyped
@@ -171,7 +153,7 @@ organization to affirm the feasibility of the approach and current practical
 limitations when compared to clinical requirements. Key technologies: Image
 Processing, Matlab, and C language.
 
-### VLIW Processor on Silicon Hive: 
+## VLIW Processor on Silicon Hive: 
 The project required to extend basic “Pearl”
 soft-core developed in Silicon Hive SDK and adapt Viola–Jones algorithm on
 soft IP cores. The project completed by extending the current design with
@@ -179,13 +161,13 @@ additional issue slot, hierarchical memory resulting in optimized execution
 time by 38% comparing to the predecessor. Key technologies: VLIW
 architecture, Silicon Hive SDK, and C language.
 
-### Dynamic Memory optimization for Image Processing: The project aimed to
+## Dynamic Memory optimization for Image Processing: The project aimed to
 improve the cache performance and memory usage for the Linux implementation
 of Corner-Harris algorithm. The final implementation achieved 58% reduction
 in data memory and 23% improvement in execution time using C language. Key
 technologies: Microprocessor Architecture, Image Processing, and C/C++.
 
-### CNN acceleration on GPU: 
+## CNN acceleration on GPU: 
 The project aimed to accelerate a sequential Linux
 implementation of CNN algorithm for execution time. It was required to adapt
 the algorithm for GPU allowing parallel processing. The team was able to
@@ -193,7 +175,7 @@ improve the execution time from 5 sec to 0.45 sec, resulting 11x performance
 improvements. The CUDA and C were the key technology used. Key technologies:
 CUDA, Image Processing, C/C++ and Python.
 
-### Sequence support on SmartM3: 
+## Sequence support on SmartM3: 
 Smart-M3 is a functional platform that provides
 a cross-domain search extent for triple based information and it currently
 supports single event programmability. The project aimed to extend the
