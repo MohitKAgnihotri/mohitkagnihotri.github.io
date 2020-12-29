@@ -30,9 +30,12 @@ url: "https://mohitkagnihotri.github.io/" # the base hostname & protocol for you
 github_username:  MohitKAgnihotri
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 include:
  - _img
