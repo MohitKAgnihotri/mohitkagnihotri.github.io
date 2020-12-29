@@ -29,6 +29,9 @@ url: "https://mohitkagnihotri.github.io/" # the base hostname & protocol for you
 
 github_username:  MohitKAgnihotri
 
+# jekyll-paginate configuration
+paginate: 10
+
 # Build settings
 markdown: kramdown
 theme: minima
@@ -36,6 +39,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 include:
  - _img
